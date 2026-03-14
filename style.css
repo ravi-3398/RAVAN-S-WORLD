@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(rrrr.webp);
+    background-repeat: no-repeat;
+    background-size: 1370px 636px;
+}
+#text1{
+    color: white;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 130px;
+    font-style: italic;
+}
+#text2{
+    color: white;
+    font-size: 50px;
+    margin-left: 130px;
+    font-style: italic;
+    margin-bottom: 200px;
+   
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: gray; border-radius: 20px;
+   
+}
+button a{
+    color: mintcream;
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: green;
+}

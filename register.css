@@ -1,0 +1,32 @@
+body{
+    background-image: url(pizza.jpg);
+    background-repeat: no-repeat;
+    background-size:1370px 636px; 
+}
+form{
+    border: solid;
+    width: 350px;
+   margin-left: 750px;
+   margin-top: 130px;
+ 
+}
+h1{
+    color: goldenrod;
+    text-align: center;
+}
+label{
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    width: 220px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+    height: 20px;
+    width: 80px;
+}
